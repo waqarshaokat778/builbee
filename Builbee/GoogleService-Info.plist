@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1075100224427-2nv88hpioomc93cnkjnvfsrebq6sm2f6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1075100224427-2nv88hpioomc93cnkjnvfsrebq6sm2f6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1075100224427-t1qj4kkof5a9hn65flh07s57phb3rcvh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAhcmyXVfgba1sIMqs-0jRnerDU6PT_CZM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1075100224427</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Khawar.Builbee</string>
+	<key>PROJECT_ID</key>
+	<string>chatproject-9f5ee</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatproject-9f5ee.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1075100224427:ios:d575226ac4d62199cfa0ee</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatproject-9f5ee.firebaseio.com</string>
+</dict>
+</plist>
